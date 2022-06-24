@@ -22,3 +22,4 @@ echo "                || ||"
 echo "               ooO Ooo"
 echo ""
 sleep 5 ; clear
+alias whatami=":"
